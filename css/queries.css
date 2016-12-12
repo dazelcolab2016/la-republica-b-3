@@ -1,0 +1,18 @@
+/*--NOTICIAS ESPECIALES--*/
+@media screen and (max-width:970){
+    aside{
+        display: none;
+    }
+}
+/*--SECTION TITULAR--*/
+@media (max-width:522px){
+  .titular{
+    font-size: 25px;
+    }
+    
+  .photo-portada1{
+      margin-top: 25px;
+    } 
+    
+  
+}

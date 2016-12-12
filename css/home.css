@@ -1,0 +1,72 @@
+{
+    outline: 1px solid rgba(244, 202, 226, 0.9);
+}
+
+/*--NOTICIAS ESPECIALES--*/
+body a:hover{
+    text-decoration: none;
+}
+     /*--end divisor--*/
+.divisor{
+  border: 1.5px solid rgba(180, 5, 5, 0.72);  
+}
+h3, span{
+  transform: translateY(-28px)
+}
+span{
+    background: rgba(180, 5, 5, 0.88);
+    color: #fff;
+    padding: 3px 5px;
+}
+     /*--end divisor--*/
+
+.special{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.title-especiales{
+    color: #fd1616;
+     padding: 6px 0;
+}
+.block-special{
+    border: 2px solid rgba(137, 130, 130, 0.21);
+    margin-bottom: 30px;
+   
+}
+.contraste{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+1,0.91+82 */
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 1%, rgba(0,0,0,0.91) 82%, rgba(0,0,0,0.91) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,0.91) 82%,rgba(0,0,0,0.91) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,0.91) 82%,rgba(0,0,0,0.91) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(  startColorstr='#00000000', endColorstr='#e8000000',GradientType=0 ); /* IE6-9 */
+}
+.photo{
+    background-image: url(../image/NS1.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.photo1{
+    background-image: url(../image/ns3.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.photfo2{
+    background-image: url(../image/NS2.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.photo3{
+    background-image: url(../image/NS4.png);
+    background-size: cover;
+    background-position: bottom;
+}
+.contraste h4{
+   color: #fff;
+   padding: 160px 0 5px;
+}
+.text h5{
+    padding: 7px 0;
+    color: #000;
+}
+
+
